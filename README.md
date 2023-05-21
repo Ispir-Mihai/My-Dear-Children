@@ -6,7 +6,7 @@
 <h3><b> Controls: </b></h3>
 <ul>
   <li>Mouse movement - control the lightning</li>
-  <li>Left click - Ultimate</li>
+  <li>Left click - Ultimate (only when the lightning turns red)</li>
   <li>Space - Pause Menu</li>
   <li>Escape - Quit game</li>
 </ul>
