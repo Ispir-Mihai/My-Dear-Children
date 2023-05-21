@@ -11,8 +11,8 @@
   <li>Escape - Quit game</li>
 </ul>
 
-<h3><b> Short gameplay: </b></h3>
-[My Dear Children - LOGA GAME JAM 2023](https://www.youtube.com/watch?v=xeAlwr6hfPM)
+<h3><b> Short gameplay video: </b></h3>
+<p>https://www.youtube.com/watch?v=xeAlwr6hfPM</p>
 
 <h3><b> Screenshots: </b></h3>
 <img src="/Images/0.png">
